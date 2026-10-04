@@ -22,7 +22,6 @@ Built for the **Odoo Hackathon** using **React, TypeScript, Firebase, Tailwind C
 - Business Problem
 - Solution
 - Key Features
-- User Roles
 - Workflow
 - Business Rules
 - Technology Stack
